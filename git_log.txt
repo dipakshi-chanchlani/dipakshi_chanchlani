@@ -1,0 +1,25 @@
+commit 0978dada9f5fe327ffcac3a4a311cd8d48af5079
+Author:     Dipakshi Chanchlani <dipakshichanchlani2006@gmail.com>
+AuthorDate: 2026-11-18 23:23:58 +0530
+Commit:     Dipakshi Chanchlani <dipakshichanchlani2006@gmail.com>
+CommitDate: 2026-11-18 23:23:58 +0530
+
+    Complete hash table output and submission documents
+
+ Trace_Match_Report.md          | 148 +++++++++++++++++++++++++++++++++++++++++
+ screenshots/program_output.png | Bin 0 -> 155554 bytes
+ 2 files changed, 148 insertions(+)
+
+commit 3974952e5651ace33d7731d591d0d0628215bea6
+Author:     Dipakshi Chanchlani <dipakshichanchlani2006@gmail.com>
+AuthorDate: 2026-11-18 23:22:37 +0530
+Commit:     Dipakshi Chanchlani <dipakshichanchlani2006@gmail.com>
+CommitDate: 2026-11-18 23:22:37 +0530
+
+    Initial commit: Hash Table implementation and project setup
+
+ .gitignore        |   2 +
+ IA3_Q2.cpp        | 140 ++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ README.md         |  64 +++++++++++++++++++++++++
+ debugging_log.txt |   9 ++++
+ 4 files changed, 215 insertions(+)
