@@ -1,0 +1,9 @@
+DATA STRUCTURES IA-3 – QUESTION 2
+Debugging log
+Student: Dipakshi Chanchlani (PRN 202501100057)
+
+Project Setup — Initialized the C++ hash table implementation for Question 2 under the Mango Varieties scenario with personalized seed S = 57 (derived from PRN 202501100057). Configured table size 29 and hash formula h(key) = key % 29 with linear probing collision resolution. Verified the formula v[i] = (57 + 13*i) % 100 for i = 0..19 to generate the 20 distinct dataset elements.
+
+Implementation & Verification — The source was structured to display each step of the insertion process, trace collision resolutions, handle edge cases (negative numbers and duplicate keys), calculate load factor (0.6897), and print the final 29-slot hash table. An independent theoretical trace was matched slot-by-slot with program execution, confirming all 20 insertions, 4 collisions (at keys 9, 0, 39, and 4), 20 occupied slots, and 9 empty positions without discrepancy.
+
+Output Generation & Git Documentation — Captured output verification and generated program output documentation. Maintained consistent development and commit logs.
